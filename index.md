@@ -1,7 +1,7 @@
 Privacy Policy for Financial Co-Pilot
 Last Updated: June 29, 2025
 
-Disclaimer: This is a template and not legal advice. You should consult with a legal professional to ensure your privacy policy is compliant with all applicable laws and regulations, such as GDPR and CCPA.
+
 
 1. Introduction
 
